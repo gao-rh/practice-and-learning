@@ -1,2 +1,2 @@
 # practice-and-learning
-code practive for new model
+code practice for new model
